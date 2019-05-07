@@ -11,7 +11,8 @@
     "core-js": "^2.6.5",
     "fusioncharts": "^3.13.4",
     "vue": "^2.6.10",
-    "vue-fusioncharts": "^3.0.2"
+    "vue-fusioncharts": "^3.0.2",
+    "vue-splitpane": "^1.0.4"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.7.0",

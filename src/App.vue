@@ -25,7 +25,6 @@
     <input type="radio" id="5two" value=0 v-on:change="reload()" v-model="checked5">
     <label for="5two">Geen recensies</label>
 <br>
-<label> value: {{datasource.dials.dial[0]}}</label>
 <div id="chart-container">
 <fusioncharts
 :type="type"
